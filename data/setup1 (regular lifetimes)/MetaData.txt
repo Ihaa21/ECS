@@ -1,0 +1,5 @@
+Create: 1000
+Destroy: 1000
+Total Particle Num: 901000
+
+No randomization
